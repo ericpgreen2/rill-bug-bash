@@ -4,7 +4,6 @@ title: "economy_dashboard"
 model: "economy_model"
 default_time_range: ""
 smallest_time_grain: ""
-timeseries: ""
 measures:
   - label: Total records
     expression: count(*)
