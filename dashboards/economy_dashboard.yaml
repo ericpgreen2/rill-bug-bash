@@ -1,6 +1,6 @@
 # Visit https://docs.rilldata.com/references/project-files to learn more about Rill project files.
 
-title: "economy_dashboard"
+title: "Economy Dashboard"
 model: "economy_model"
 default_time_range: ""
 smallest_time_grain: ""
